@@ -1,1 +1,1 @@
-alert("External Script Loaded Successfully");
+alert(document.cookie);
